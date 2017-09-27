@@ -1,0 +1,1 @@
+These lessons were completed by David Lee Garcia in progress of The Tech Academy's Cirriculum.
