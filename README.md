@@ -1,2 +1,2 @@
 # CSS-and-HTML-Practices
-Some basic lessons on CSS and HTML I need to complete for The Tech Academy.
+A basic lesson on CSS and HTML I have completed for The Tech Academy.
